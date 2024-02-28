@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Embedded OpenStreetMap</title>
+</head>
+<body>
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=13.303070068359377%2C45.59290020826985%2C15.596466064453127%2C46.44164232762498&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+<br/>
+<small><a href="https://www.openstreetmap.org/#map=10/46.0189/14.4498">Prikaži večji zemljevid</a></small>
+
+</body>
+</html>
